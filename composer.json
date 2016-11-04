@@ -12,6 +12,8 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "wechat\\": "src/"
+        "psr-4": {
+            "wechat\\": "src/"
+        }
     }
 }
