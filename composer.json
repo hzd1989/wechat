@@ -1,0 +1,17 @@
+{
+    "name": "hzd1989/wechat",
+    "description": "wechat api",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "hzd",
+            "email": "1570246817@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "wechat\\": "src/"
+    }
+}
